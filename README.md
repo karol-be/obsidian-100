@@ -1,4 +1,6 @@
 # strapi .NET bridge
+## alternative ideas
+dream development setup boilerplate?
 
 ## obsidian-100 🤔?
 **The name of the repo (and the fact of it being a fork of obsidian plugin template) has nothing to do with the project.**
